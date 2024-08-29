@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="background.jpg" alt="Header Image" style="max-width: 100%; height: 650px;">
+</p>
+
 
 
 ### Hi 👋, I'm David Nicolas   
@@ -8,17 +12,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Thanks for Stopping By  
 I'm CS Graduate @ CSULB passionate about backend and frontend development, open-source contributions, and solving complex problems through code
 
 💼 Actively seeking a full-time Software Engineering role, with a focus on backend development, web applications, and AI/ML integration.
-  
-  
 
-<br/>  
 
 
 ## Rapidfire  
