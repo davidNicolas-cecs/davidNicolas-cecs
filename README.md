@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="background4.jpg" alt="Header Image" style="max-width: 100%; height: 250px;">
+  <img src="background4.jpg" alt="Header Image" style="max-width: 100%; height: 400px;">
 </p>
 
 
