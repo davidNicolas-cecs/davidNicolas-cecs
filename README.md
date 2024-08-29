@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Nicolas Garcia</h1>
 <h3 align="center">A CS Graduate @ CSULB passionate about backend and frontend development, open-source contributions, and solving complex problems through code.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA,B" alt="davidnicolas-cecs" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA,A,B" alt="davidnicolas-cecs" /></a> </p>
 
 /* Some fun goes here*/
 
