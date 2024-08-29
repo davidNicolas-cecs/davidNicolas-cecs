@@ -13,14 +13,17 @@
 </a>  
   
 ### Thanks for Stopping By  
-I'm CS Graduate @ CSULB passionate about backend and frontend development, open-source contributions, and solving complex problems through code
+I'm a CS Graduate @ CSULB passionate about backend and frontend development, open-source contributions, and solving complex problems through code
 
 💼 Actively seeking a full-time Software Engineering role, with a focus on backend development, web applications, and AI/ML integration.
 
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on a Personal Project: Social Box - a web application that will allow content creators to manage and view their analytics from all platforms in one space.   
+- 🔭 I’m currently working on a Personal Project: Social Box - a web application that will allow content creators to manage and view their analytics from all platforms in one space.
+
+
+- 🌃 I'm currently working at DreamlineAI, where I'm developing both backend infrastructure and user-facing features, handling both backend and frontend development."
   
 
 - 🌱 I'm currently diving into Machine Learning and AI.  
